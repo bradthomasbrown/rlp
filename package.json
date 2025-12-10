@@ -1,0 +1,13 @@
+{
+    "name": "@bradthomasbrown/rlp",
+    "description": "Minimal, unoptimized, and unaudited recursive-length prefix (RLP) serialization library in JavaScript/TypeScript.",
+    "version": "1.0.0",
+    "author": "Brad Brown <https://t.me/bradthomasbrown>",
+    "type": "module",
+    "files": [
+        "dist/"
+    ],
+    "exports": {
+        ".": "./dist/rlp.js"
+    }
+}
